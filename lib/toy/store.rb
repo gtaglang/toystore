@@ -20,5 +20,6 @@ module Toy
 
     include IdentityMap
     include Caching
+    include Indices
   end
 end

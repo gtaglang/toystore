@@ -64,7 +64,8 @@ module Toy
   autoload 'Reference',               'toy/reference'
   autoload 'References',              'toy/references'
   autoload 'Identity',                'toy/identity'
-
+  autoload 'Index',                   'toy/index'
+  autoload 'Indices',                 'toy/indices'
   module Types
     autoload 'JSON',                  'toy/types/json'
   end
